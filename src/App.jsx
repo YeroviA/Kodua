@@ -21,15 +21,15 @@ export default function LandingPage() {
 
   const slides = [
     {
-      image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+      image: "/images/carrousel/photo-1521737604893-d14cc237f11d.jpg",
       text: "Transformamos ideas en código funcional",
     },
     {
-      image: "https://images.unsplash.com/photo-1556761175-4b46a572b786",
+      image: "/images/carrousel/photo-1556761175-4b46a572b786.jpg",
       text: "Desarrollamos soluciones digitales para tu negocio",
     },
     {
-      image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c",
+      image: "/images/carrousel/photo-1522071820081-009f0129c71c.webp",
       text: "Impulsa tu presencia en línea con KÓDUA",
     },
   ];
